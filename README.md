@@ -1,4 +1,4 @@
-# LowPassFilter_Gyro
+# filtering gyroscope
 
 Just some gyro filtering documentation
 
